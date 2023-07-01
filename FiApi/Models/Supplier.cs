@@ -6,7 +6,7 @@ public class Supplier
     public string? Name { get; set; }
     public Ingredient[]? Ingredients { get; set; }
     public string? Address { get; set; }
-    public string? Gmail { get; set; }
+    public string? Email { get; set; }
     public string? Phone { get; set; }
     public bool IsComplete { get; set; }
 }
